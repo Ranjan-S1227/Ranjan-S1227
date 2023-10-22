@@ -13,7 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+--> 
+<html align="center">
+  
+
 
 #                         Hey, I'm Ranjan Satish ! 
 I’m a Full Stack Developer who thrives in complexity, turning intricate challenges into sleek, innovative solutions !<br><br>And yes, I’m the optimistic type, rerunning the same code, fervently believing that this time, it just might compile successfully.<br> It’s all part of the adventure, right? Here’s to navigating the thrilling world of code, one repo at a time! 🚀
@@ -34,4 +39,4 @@ I’m a Full Stack Developer who thrives in complexity, turning intricate challe
 ---
 [![](https://visitcount.itsvg.in/api?id=Ranjan-S1227&icon=2&color=4)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</html>
