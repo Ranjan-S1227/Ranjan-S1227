@@ -21,7 +21,15 @@ Here are some ideas to get you started:
 
 
 #                         Hey, I'm Ranjan Satish ! 
-I’m a Full Stack Developer who thrives in complexity, turning intricate challenges into sleek, innovative solutions !<br><br>And yes, I’m the optimistic type, rerunning the same code, fervently believing that this time, it just might compile successfully.<br> It’s all part of the adventure, right? Here’s to navigating the thrilling world of code, one repo at a time! 🚀
+And yes, I'm Daemon404, the optimist prime,
+Running that code time after time.
+With hope in my heart and coffee in hand,
+I'm convinced that this time, it'll compile as planned.
+
+Why, you ask? Well, here's the lore:
+In my universe, persistence unlocks the core.
+Where stubborn bugs and errors meet their fate,
+In the realm of code where I create.
 
 
 ## Socials:
