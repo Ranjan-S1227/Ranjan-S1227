@@ -22,14 +22,14 @@ Here are some ideas to get you started:
 
 #                         Hey, I'm Ranjan Satish ! 
 And yes, I'm Daemon404, the optimist prime,<br>
-Running that code time after time.
-With hope in my heart and coffee in hand,
-I'm convinced that this time, it'll compile as planned.
+Running that code time after time.<br>
+With hope in my heart and coffee in hand,<br>
+I'm convinced that this time, it'll compile as planned.<br>
 
-Why, you ask? Well, here's the lore:
-In my universe, persistence unlocks the core.
-Where stubborn bugs and errors meet their fate,
-In the realm of code where I create.
+Why, you ask? Well, here's the lore:<br>
+In my universe, persistence unlocks the core.<br>
+Where stubborn bugs and errors meet their fate,<br>
+In the realm of code where I create.<br>
 
 
 ## Socials:
