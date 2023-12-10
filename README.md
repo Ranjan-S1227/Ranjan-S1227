@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   
 
 
-#                         Hey, I'm Ranjan Satish ! 
+#                         Hey there !
 And yes, I'm Daemon404, the optimist prime,<br>
 Running that code time after time.<br>
 With hope in my heart and coffee in hand,<br>
